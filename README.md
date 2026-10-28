@@ -54,7 +54,7 @@ You may share and adapt these materials for non-commercial purposes, provided th
 
 ## Repository Citation
 
-**Repository DOI:** 
+**Repository DOI:** https://doi.org/10.5281/zenodo.23719005
 
 ## Contact
 
